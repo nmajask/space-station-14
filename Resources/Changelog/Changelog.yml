@@ -1,15 +1,4 @@
 Entries:
-- author: Derby
-  changes:
-  - {message: The guidebook now comes with more antagonists info., type: Add}
-  id: 4451
-  time: '2023-08-06T02:35:08.0000000+00:00'
-- author: JoeHammad
-  changes:
-  - {message: 'NT RND has cooked up brute and burn auto-injectors, which are now available
-      in combat medkits.', type: Add}
-  id: 4452
-  time: '2023-08-06T02:38:25.0000000+00:00'
 - author: metalgearsloth
   changes:
   - {message: 'Re-balanced melee combat. Windup is removed, heavy attacks cost 15
@@ -2959,3 +2948,14 @@ Entries:
   - {message: Plant species mutations correctly mutate reagents., type: Fix}
   id: 4950
   time: '2023-10-03T23:07:29.0000000+00:00'
+- author: crazybrain
+  changes:
+  - {message: The omnitool (advanced tool cyborg module) can pry airlocks and firelocks
+      again., type: Fix}
+  id: 4951
+  time: '2023-10-04T05:22:48.0000000+00:00'
+- author: EmoGarbage404
+  changes:
+  - {message: Cyborgs can toggle their flashlights again., type: Fix}
+  id: 4952
+  time: '2023-10-04T14:30:11.0000000+00:00'
