@@ -101,6 +101,8 @@
     - id: Pen
       amount: 2
     - id: HandLabeler
+    - id: BoxFolderClipboard
+      amount: 2
     - id: BoxFolderBlue
     - id: BoxFolderRed
     - id: BoxFolderYellow
